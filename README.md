@@ -1,2 +1,2 @@
-# image-processing-python-flask-Temple-in-Nan.git.io
+# image-processing-python-flask-Temple-in-Nan
 wadnan
